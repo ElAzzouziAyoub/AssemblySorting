@@ -29,6 +29,8 @@ This project demonstrates the implementation of **three four algorithms** — In
 
 ---
 
+## QuickSort is the faster for LARGE arrays 
+
 ## 🧾 Example Output (Simplified)
 
 ```text
@@ -50,3 +52,7 @@ Instruction Count: 66
 QuickSort :
 0 1 2 3 4 5 6 7 8 9
 Instruction Count : 69
+
+```
+
+# Made by Ayoub El Azzouzi
